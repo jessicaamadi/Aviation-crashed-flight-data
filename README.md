@@ -71,6 +71,8 @@ PivotTables were used to summarize large datasets efficiently instead of analyzi
 	•	aviation_crash_data.xlsx – Raw dataset
 	•	analysis.xlsx – Cleaned data and PivotTables
 	•	charts/ – Visualizations generated from the analysis
+
+	you can also reach out to me for more work and collaboration jessicaamadi71@gmail.com
 	•	README.md – Project documentation
 
 ⸻
